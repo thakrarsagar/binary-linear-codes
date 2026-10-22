@@ -1,0 +1,5842 @@
+{
+  "round_seed": "aac390866c59afee7d645224e629b13b",
+  "base": "76267c387538b4fb0e802278530b575bab4d1f76",
+  "parent": "research/readiness-20261021/certificates/172_21_66.json",
+  "parent_sha256": "8a9a1f444f9cb33abf4032cdbfb5ecec375f9e71d118d933af190e09738367e3",
+  "domain": "All 21 one-exponent and 210 two-exponent toggles of the second QC multiplier",
+  "target_d": 67,
+  "best_mutated_d": 62,
+  "best_mutated_sha256": "d4b85b4182b101f49cbfce940ce68f5b795493ca3d84f2433bd774337d7cfea6",
+  "valid": 231,
+  "invalid": 0,
+  "wins": 0,
+  "ties": 0,
+  "losses": 231,
+  "seconds": 54.99470358295366,
+  "checker": "codes.spectrum and large_verify.check agreed on every valid proposal",
+  "source_sha256": {
+    "scripts/prepare_structured.py": "d305a3bf6a4eb5a894b620910ee95bfc55c55c7ac378001e840e846c350d87f0",
+    "scripts/codes.py": "2676dec484a9e255996c292c422e2ca71a47ec59dfa05d83b5040fc9e5114f4a",
+    "scripts/large_verify.py": "b8ec3c6525d9eec3cd452f386c7898f73c15a7932e974c3dd1eef0883e69e620"
+  },
+  "history": [
+    {
+      "toggles": [
+        0
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "e4c54d03f4fedfc7ffd8f6894f52469f845c2d650b011ec851226e0fa4516cd8"
+    },
+    {
+      "toggles": [
+        1
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "8fc0dbe68af596a185ee796546464abffca8337ba9197d45443befcc24003c78"
+    },
+    {
+      "toggles": [
+        2
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 90,
+      "spectrum_sha256": "6b6f64e6091d9c1217f011e5add24b618d72087cd93732b3a2770f0f81f2525b"
+    },
+    {
+      "toggles": [
+        3
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "8276441cd519e70ecc5e5711e91620db9a68b8e30e1d79412c8378d4c8f5e9f7"
+    },
+    {
+      "toggles": [
+        4
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "c9339803281a88d8744cefddeb468fc877b7cf67d417dcf7e66a5e3464391216"
+    },
+    {
+      "toggles": [
+        5
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "45dd404faa99400fcf3bb35786ca8c09e55d5ae0e384b5d40a1ab4059837b2dd"
+    },
+    {
+      "toggles": [
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "8fc0dbe68af596a185ee796546464abffca8337ba9197d45443befcc24003c78"
+    },
+    {
+      "toggles": [
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "45dd404faa99400fcf3bb35786ca8c09e55d5ae0e384b5d40a1ab4059837b2dd"
+    },
+    {
+      "toggles": [
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "03458fdabb404fce68599c4547921c743b9243485f9bdd9625d2b8e1b60ffaf4"
+    },
+    {
+      "toggles": [
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "03458fdabb404fce68599c4547921c743b9243485f9bdd9625d2b8e1b60ffaf4"
+    },
+    {
+      "toggles": [
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "83cb3730949ada41fc98e725b6652d690b185a1093fc01509ccd235d7b4dd236"
+    },
+    {
+      "toggles": [
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "9d7e7059cb4f0367d220f32f63039288c6e89b5e5542d93de91fe98950e2ddd2"
+    },
+    {
+      "toggles": [
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "206a36571ee4a2f4b4791dbf16652cdf4f60f46bb2df61dc343d033331a20971"
+    },
+    {
+      "toggles": [
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "03458fdabb404fce68599c4547921c743b9243485f9bdd9625d2b8e1b60ffaf4"
+    },
+    {
+      "toggles": [
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 255,
+      "spectrum_sha256": "2041a67ebfadad861973c38ea2a80503a985353ad34af9fa5806de9398a2014c"
+    },
+    {
+      "toggles": [
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "829717eba04edab92422afe6cc6ac1b59ec5209b821f8ddc7e1293344449fb65"
+    },
+    {
+      "toggles": [
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "c9ee64ab98547a62e492c2a1b27b7b4c160afb1b34d24e6c4dce31eae6e2ca73"
+    },
+    {
+      "toggles": [
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "83cb3730949ada41fc98e725b6652d690b185a1093fc01509ccd235d7b4dd236"
+    },
+    {
+      "toggles": [
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "8276441cd519e70ecc5e5711e91620db9a68b8e30e1d79412c8378d4c8f5e9f7"
+    },
+    {
+      "toggles": [
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 56,
+      "minimum_words": 85,
+      "spectrum_sha256": "188b7dbdad47670029be9ebcca79d8182e92677f4a367bb0071edb373a8777dd"
+    },
+    {
+      "toggles": [
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 53,
+      "minimum_words": 5,
+      "spectrum_sha256": "a18d58f508a9c7c9f740a63027e677c6d62ea91a7f62663cdf13ed8bad749c45"
+    },
+    {
+      "toggles": [
+        0,
+        1
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "41e3294f0475f5f77b3ff8fcddbb17af4bd18fdd8eff0c0979d4d68bea2dc9cb"
+    },
+    {
+      "toggles": [
+        0,
+        2
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "90e5acd35f92359cfc6e38cd9ecde2ac30d87deaff50f12f8ab558c90a6f6bfc"
+    },
+    {
+      "toggles": [
+        0,
+        3
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "26ce773db7dfc9fe4d0e337a77d9e17784325c86b76beff6319e0949342afcfa"
+    },
+    {
+      "toggles": [
+        0,
+        4
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "0673d8554c0667a281331d5fbd02d89a84e97d3cb67bd29a483c8869d83a1644"
+    },
+    {
+      "toggles": [
+        0,
+        5
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "73e0af72baa1fd3a61e68b6b0b44039be534fd27d720e7726c7b173764d40270"
+    },
+    {
+      "toggles": [
+        0,
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "cc3fcc7fc89fede60753cbc5e8db37cd9322a34c78480601a8138ed7e2eb07b0"
+    },
+    {
+      "toggles": [
+        0,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "9a4e399a78b9691fed97e668094caf275a317d6deab15c55b3d40b8bef230efe"
+    },
+    {
+      "toggles": [
+        0,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "9a4b59fc2681d29960739e86ce07a35adf9f3a0f13df4229e86d11dcfd2de507"
+    },
+    {
+      "toggles": [
+        0,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "2648f980ad1ed9a308a3529b4cd410fe4d896a4ba91025fb75aa0d0c33cd9c37"
+    },
+    {
+      "toggles": [
+        0,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "9b64d5fa12335058250213dd5825bf942bbdb3e8097ee93e0388ec72480292e7"
+    },
+    {
+      "toggles": [
+        0,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "3fbff3ba92c4790e712a84c56ea6b4f97ed0219dfa02745b2a6d611a82e951a8"
+    },
+    {
+      "toggles": [
+        0,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "bee1bcfad3845a26a4106b2c8cfe1988dc2a4e707050c9a8d239666325fe60bd"
+    },
+    {
+      "toggles": [
+        0,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "c6d58411987df5c0bd3932b3ebcf2406803c67b544c6d552c2a12a7df944edd5"
+    },
+    {
+      "toggles": [
+        0,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 170,
+      "spectrum_sha256": "4998c8ca70a60bc8eb88796b46d2a5a4fba13b611a07bd7496951dd45ffbd1ff"
+    },
+    {
+      "toggles": [
+        0,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "4849575ae7b29f2adf89abba876bd40b74cbc98b2f25e57dc4ef5598e9b13649"
+    },
+    {
+      "toggles": [
+        0,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "bee1bcfad3845a26a4106b2c8cfe1988dc2a4e707050c9a8d239666325fe60bd"
+    },
+    {
+      "toggles": [
+        0,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "d658ab7c4f4946405d641a8539727546d52393a216e6b6b88609b26556d91b0a"
+    },
+    {
+      "toggles": [
+        0,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "5f26b912ccca44c5beef2b45e4b89e56606ac18b9f7b1496ec21bfbbc6641241"
+    },
+    {
+      "toggles": [
+        0,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "ed36702a3a92eb1e1c40e2036017c6619c3729216530bb9f1f44bbf9e5936707"
+    },
+    {
+      "toggles": [
+        0,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "9b6b7afa3faab9cc9596279a466350defdd1d5f13a06bd5b4a3a35ee48f980a1"
+    },
+    {
+      "toggles": [
+        1,
+        2
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "7f36fadedf5d74018d6d190f5c91b7daa3d7504c20b95a6cac26557af384cd4f"
+    },
+    {
+      "toggles": [
+        1,
+        3
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "380a1a6df565a7164aba496ba9032af169f470d9a28924d94a9a7c498419c8a4"
+    },
+    {
+      "toggles": [
+        1,
+        4
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "580d757474155ecd9c987b01a1a0d9d31912e27d6f32bf3c986929c0c283a36a"
+    },
+    {
+      "toggles": [
+        1,
+        5
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "07a7b2d3d7c9eb8c10dd726844ea4ec30180b3d73890ce81650e79a5ae620bfc"
+    },
+    {
+      "toggles": [
+        1,
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 765,
+      "spectrum_sha256": "f19db611cf74f127ad7f5ec187b635738bfc241edd72b211c1c7c58af8ca5b99"
+    },
+    {
+      "toggles": [
+        1,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "93a18f5f2df04158639bd343af38ba46024ac806c27b2f38a0f90fc700a3dea1"
+    },
+    {
+      "toggles": [
+        1,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "8b1675da8f64d1948ab52004349cb78c76a27f1ded4bba101d1e1d434fa25490"
+    },
+    {
+      "toggles": [
+        1,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "0e55c5f2f3023202e7db1d288887f5de4bb967c39897e9a33a36ff1a79b8fc4f"
+    },
+    {
+      "toggles": [
+        1,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "eda1f1382f53710d9ecd1cfb16a2026a916dd869c1a3785f514545a8ad45acc1"
+    },
+    {
+      "toggles": [
+        1,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "806b4651db7f9ee01ae6f8042fb24aaa7c384481f1da8a4a28061503678ea9db"
+    },
+    {
+      "toggles": [
+        1,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "b2faee3e7e98ac99fdac4d1c8edf7d7b7585032770da68b4dc69752eac586c58"
+    },
+    {
+      "toggles": [
+        1,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "c014e0c011d8613e61df2e81c4aaa1602d508827a7930ca22175f558bb5cc009"
+    },
+    {
+      "toggles": [
+        1,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "93938781e715a0016f3741acc4216926987d9f5a92c8d5675dfea6751be73579"
+    },
+    {
+      "toggles": [
+        1,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "5cdf690f5ca3009ff215b35115be239d694bf2dc9d258cdc491485d05105cdcd"
+    },
+    {
+      "toggles": [
+        1,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "f42bc82b76be50cf1771c31376ed386c8f191699b5bfadbec7be09df99823253"
+    },
+    {
+      "toggles": [
+        1,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "6d008e7327915e97718a8f5b05bfdca66c40827f4eea4041e282958ac0928f08"
+    },
+    {
+      "toggles": [
+        1,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "88247f1b60fd13800a3c4ae4744fd69c6c60fa9ad79dd36ce366dd386793fd4f"
+    },
+    {
+      "toggles": [
+        1,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "7f4870e4e9d5e64b3550cbee8510de3aab7ab9dfc27851e4dbd1884f0d552d8d"
+    },
+    {
+      "toggles": [
+        1,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "98a01e89cc35a01be5698d200b60a7867f5b2b4b0e115708a1b73ea75c8b80fb"
+    },
+    {
+      "toggles": [
+        2,
+        3
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          4,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "c88b525ec29eaf1ad67f437284b768eb49fe2410d21b371cb7ac7b9cbe7b22b9"
+    },
+    {
+      "toggles": [
+        2,
+        4
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "c88b525ec29eaf1ad67f437284b768eb49fe2410d21b371cb7ac7b9cbe7b22b9"
+    },
+    {
+      "toggles": [
+        2,
+        5
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "3a08ffa33dfc5ce5f7536dd162ade74ee45ad469f888a4b22d8b07df963eebfb"
+    },
+    {
+      "toggles": [
+        2,
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "373d87b2b33aa4094ff00e9a3bb1d4f7d0b20c2d2a136227a418e73f464d44c3"
+    },
+    {
+      "toggles": [
+        2,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "e4f3215c48743302fc530cf389cadf8fd61ddb5cb5f497aba35aa03db8883a0d"
+    },
+    {
+      "toggles": [
+        2,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "f2213160ae0a8b6da2e8fdc9e4c669fc05cfe77b4bf57d15ea9702b0f070e8d9"
+    },
+    {
+      "toggles": [
+        2,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "01e26fcf4e3f7c9230b1d587dfd8b8209ecde8e29c40fcfaa5b4ade2401e5202"
+    },
+    {
+      "toggles": [
+        2,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "e66907d3f4c51a16a0d96cfc3d4239396037ac1a998e5d918704f46fe9143c40"
+    },
+    {
+      "toggles": [
+        2,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "540a64cccdbc58522adfa988ef505aa1b73c46ee1e3388b7c283f6f17aced370"
+    },
+    {
+      "toggles": [
+        2,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "ff216a384d4c5bd6727ce5986d67c284fadeacfbaa7329b454bfb010669a989e"
+    },
+    {
+      "toggles": [
+        2,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "f2213160ae0a8b6da2e8fdc9e4c669fc05cfe77b4bf57d15ea9702b0f070e8d9"
+    },
+    {
+      "toggles": [
+        2,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "f2213160ae0a8b6da2e8fdc9e4c669fc05cfe77b4bf57d15ea9702b0f070e8d9"
+    },
+    {
+      "toggles": [
+        2,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "a74d258385340f8bac45602341e018700d211ef502146cae296d9bb275b88237"
+    },
+    {
+      "toggles": [
+        2,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "330bcd11bd88197739ddfae6549ed14869845d862e26fee7f685f1d50f5730b8"
+    },
+    {
+      "toggles": [
+        2,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "35cf8851bc168210c24a488bbcb71c00fe2005fdd693dc1fd59379e15b58ff98"
+    },
+    {
+      "toggles": [
+        2,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "c88b525ec29eaf1ad67f437284b768eb49fe2410d21b371cb7ac7b9cbe7b22b9"
+    },
+    {
+      "toggles": [
+        2,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "57660a59bc5a7bd99942884b680bd29e99f09e164a25237b6cdd4240643daf33"
+    },
+    {
+      "toggles": [
+        2,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "04c24169bbb1584d4b616b7946eb13027f9e5e65c73ecc790d6b534407b7a9db"
+    },
+    {
+      "toggles": [
+        3,
+        4
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "876a17d12157fbd79774a3cdd5b19f2300c646d69e94b14cc8543deb7294062c"
+    },
+    {
+      "toggles": [
+        3,
+        5
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "53a5705b45197259be01767dd663ad82b5fcbe3e8616e482a2c704cfec576b66"
+    },
+    {
+      "toggles": [
+        3,
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "5fddcf5ec7eb261653d7d71b8679abdd09d2242d264d18b28c867f1cd4c7c9dd"
+    },
+    {
+      "toggles": [
+        3,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "021e3ad5fbeb6a2c1c6fdab0459fe2f0700f3257fafdb26943f5be9b61e1fa32"
+    },
+    {
+      "toggles": [
+        3,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "f9c090a5be9009aabcf3d506efc56ed21cb33c959633f33ddda1fd4cb9c22058"
+    },
+    {
+      "toggles": [
+        3,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "98e449e6665a469e0d27b435b279e3fa6e07926b515f77a8f8556dd9410f98ca"
+    },
+    {
+      "toggles": [
+        3,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 170,
+      "spectrum_sha256": "65272b90ec1ee97a308f91921fc332cc0165861558db311c15f462472fb3bc9a"
+    },
+    {
+      "toggles": [
+        3,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 56,
+      "minimum_words": 85,
+      "spectrum_sha256": "ba136b33ba5f32f33497305079905c0316aef48448e153763aeed81357fdc69b"
+    },
+    {
+      "toggles": [
+        3,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "eca9740d0a0a321f09a5c49f291764c4f0c1816d26731fd052da81fcf5438220"
+    },
+    {
+      "toggles": [
+        3,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "e73407193d6993ac8fad30c4f363507b283aa8ee0c3938a2730097a0c266e7ef"
+    },
+    {
+      "toggles": [
+        3,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "58fe3973486d39c22898bfac8ff5734286a50f04e706af9a31735a917ad20f88"
+    },
+    {
+      "toggles": [
+        3,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "366218eeddc69c5e1f8534e3cf061035c5fb1b50513053553d757c52b5f21762"
+    },
+    {
+      "toggles": [
+        3,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "2d56bf7c2cd100db9b0f3809c46aece1d3ff01970fe3dab4504c2ec124a2bc37"
+    },
+    {
+      "toggles": [
+        3,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 85,
+      "spectrum_sha256": "e2bee3d96b415984bc9860a6052d5479b179b2da916a40e28a6f3479b9841530"
+    },
+    {
+      "toggles": [
+        3,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "81b319410e3cc7b626d15e34621a505b907f77de01955abf04265266ad03b95a"
+    },
+    {
+      "toggles": [
+        3,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "d9ab36ff6c2029df38199327cb952bab8251deb982e51acaaf5fd91a691119bb"
+    },
+    {
+      "toggles": [
+        3,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          4,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "5ed1faaa56d5dfce20db21b787bed64c1829fb6485eb4535d2cff6ad2a01d7a5"
+    },
+    {
+      "toggles": [
+        4,
+        5
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          6,
+          5,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "2c128208a3afd7a0bc64b639a03359695e81a941915681950557c7af67fa46b2"
+    },
+    {
+      "toggles": [
+        4,
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "21b1ac5367bbf41cba7a14304f076522673571e66ac0c81a94a94cc9bb6254df"
+    },
+    {
+      "toggles": [
+        4,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "432bbc69ff5427a261da89e8796d4f43c75969385ae6ded18d368c64b9656a77"
+    },
+    {
+      "toggles": [
+        4,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "12cb695714aef74c5d5b0fed871fe1cbf6de288afeeb5dee23abc67df1ec9f5c"
+    },
+    {
+      "toggles": [
+        4,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "5e5772410e3c314e70e7949a2a810e1e66cfe00001d595cced03450a9346c111"
+    },
+    {
+      "toggles": [
+        4,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "6afe99bdfc23da29f61c7b0fb796d2aa3a73948fa1c8c9b8052ba835a84c3ad5"
+    },
+    {
+      "toggles": [
+        4,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "7aee4f8d16379e09c44d48a9e17904a92d8addb57c74045e51b5bf5c57de8188"
+    },
+    {
+      "toggles": [
+        4,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "1fafeda704bfb0bbfdf64dfcbff5b6576951cf9eae4cda7f6a2a7ba533d93a70"
+    },
+    {
+      "toggles": [
+        4,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "21266b00e07aeedc29b4991ec1212c6b1e0e0b36dbab5a8a2b58ad44a80bc8df"
+    },
+    {
+      "toggles": [
+        4,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "c6d58411987df5c0bd3932b3ebcf2406803c67b544c6d552c2a12a7df944edd5"
+    },
+    {
+      "toggles": [
+        4,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "e70b1a5e1ef1930068c5f2068aa1e2e6a21a6f9a50c4e6b81b544ae6f2f37dda"
+    },
+    {
+      "toggles": [
+        4,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "51b6c5335bedb3c64771f1875cfda218c90a5063a25e282bc41e5585be14ed64"
+    },
+    {
+      "toggles": [
+        4,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "31d6cd94ed8d5cc348f67ca589665e53a1ce7e539c7450d521d966f120381a49"
+    },
+    {
+      "toggles": [
+        4,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "fde01c3f945d6a79c549d2574846ebdc500c3336ba131f6d93644df15c5c4a8c"
+    },
+    {
+      "toggles": [
+        4,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "79fdbf499f8de5a0eeb39d22461b831ae7ba3804a03ff38fd58a06fe6219d02e"
+    },
+    {
+      "toggles": [
+        4,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "05e9c76c2a26a56053cc4c409364ff03968d88ba033f2318bafd8653be93e353"
+    },
+    {
+      "toggles": [
+        5,
+        6
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "52aa9ec590dad067dff4d50125bbfed369e0b14537350825302e68fe8e5e6b93"
+    },
+    {
+      "toggles": [
+        5,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "e11bcc3216e48baad7166c20f411d9d7d0bde04a796813e75c69bea2e70ac936"
+    },
+    {
+      "toggles": [
+        5,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "49c57c7bff39ef43e577fda05a5ea7a98e919cd6c4c56e15fa70dda9b261ac1d"
+    },
+    {
+      "toggles": [
+        5,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 56,
+      "minimum_words": 85,
+      "spectrum_sha256": "ba136b33ba5f32f33497305079905c0316aef48448e153763aeed81357fdc69b"
+    },
+    {
+      "toggles": [
+        5,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "d0e730d0fad25c8b9983634dccf00f2592b0dadf5949f77ca67bad2e1c886f51"
+    },
+    {
+      "toggles": [
+        5,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "39b7bf533552ce78e1d7fd1a0040671e3b033cc927c0667522ae4a6894519d48"
+    },
+    {
+      "toggles": [
+        5,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "8c2aa5dfcefbc6e09f53c14906fc7648de72f7dc6b306f5cf214d149e1e2db93"
+    },
+    {
+      "toggles": [
+        5,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "47c541b09e666a327e47f540b4273eb8c24ba1b143bf6d60d3aec5758a0dee17"
+    },
+    {
+      "toggles": [
+        5,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "e98dfced3905e029bb771459d67eb045fb68f8bcd7185876ff9b44c9713e06fa"
+    },
+    {
+      "toggles": [
+        5,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "fd43afb16812191967d39e7f235215a598de6ea6781c1ac8e75b733efdf1afc4"
+    },
+    {
+      "toggles": [
+        5,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "c8b6b803805e247c04cda5fdfc9ce492630d9a3d8b098ce1001b7579f042fa23"
+    },
+    {
+      "toggles": [
+        5,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "7cf95a8855601f2921b91c17e6c71ac353f9c803c687b54372766095ab1025a1"
+    },
+    {
+      "toggles": [
+        5,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "5a3ce81b55d9eec7e9107c798a616f5ffb2f6f13bcf858b0b136eb5636d3f101"
+    },
+    {
+      "toggles": [
+        5,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "df531540ade494ed2ee30d9fb374e3e98365cc47a152438883a21dffb83d33da"
+    },
+    {
+      "toggles": [
+        5,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "18b10b2b3b9ff0127f1ad0069cc8ee8b722727784788f6af0f108f578a3d3cc3"
+    },
+    {
+      "toggles": [
+        6,
+        7
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          7,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "07a7b2d3d7c9eb8c10dd726844ea4ec30180b3d73890ce81650e79a5ae620bfc"
+    },
+    {
+      "toggles": [
+        6,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "0e55c5f2f3023202e7db1d288887f5de4bb967c39897e9a33a36ff1a79b8fc4f"
+    },
+    {
+      "toggles": [
+        6,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "c014e0c011d8613e61df2e81c4aaa1602d508827a7930ca22175f558bb5cc009"
+    },
+    {
+      "toggles": [
+        6,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "6d008e7327915e97718a8f5b05bfdca66c40827f4eea4041e282958ac0928f08"
+    },
+    {
+      "toggles": [
+        6,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "8388b2a58a9a3e1ba429a2a756c84b92025592ac651f2acec228f00cf9e6e75b"
+    },
+    {
+      "toggles": [
+        6,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "fde92189cc5d84b588a3a7bb5a0b25c515a9a35b466122ede107f2de938e2480"
+    },
+    {
+      "toggles": [
+        6,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "b5e08d7470337053b466d098257da9daf218ad9294b6922e58981b7ae15e0ec7"
+    },
+    {
+      "toggles": [
+        6,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "27eebee17e79ef52f5ef69757df9cd840cd8c64dee05ed82af1fcdcf94ea0fbd"
+    },
+    {
+      "toggles": [
+        6,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "3d2d6807590c786ad616f6006e891127daee66d6895b37e4f6cdb5a11410aa9c"
+    },
+    {
+      "toggles": [
+        6,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "df531540ade494ed2ee30d9fb374e3e98365cc47a152438883a21dffb83d33da"
+    },
+    {
+      "toggles": [
+        6,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "4e4877a92a3b219ad841925e53b2eeedef8cadcf79670072b4aabcd0da819d72"
+    },
+    {
+      "toggles": [
+        6,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "53161d55cfa1fee7ba43f2d9bfc8fb94f95ae6dd09431c33d87c7584b7cc14a9"
+    },
+    {
+      "toggles": [
+        6,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "dabea8ac39a114c9fb7215233cbbf178dcd23fcec262e97956eb9081a4b55a2b"
+    },
+    {
+      "toggles": [
+        6,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "ef88cad4ed31895bf5981463b865e9530adeb07d84972fbfc3ba7b84dc642b7e"
+    },
+    {
+      "toggles": [
+        7,
+        8
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          9,
+          8,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 56,
+      "minimum_words": 85,
+      "spectrum_sha256": "ba136b33ba5f32f33497305079905c0316aef48448e153763aeed81357fdc69b"
+    },
+    {
+      "toggles": [
+        7,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "47c541b09e666a327e47f540b4273eb8c24ba1b143bf6d60d3aec5758a0dee17"
+    },
+    {
+      "toggles": [
+        7,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "7cf95a8855601f2921b91c17e6c71ac353f9c803c687b54372766095ab1025a1"
+    },
+    {
+      "toggles": [
+        7,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "c22fdbee61955e1e5412ec7984dc5d039dc5747c2b743a6359b6ba3360b7ddd7"
+    },
+    {
+      "toggles": [
+        7,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 85,
+      "spectrum_sha256": "643c5d9846208990972cf6b6182599eae37b291c9f3ed333a6013ed992f9baf6"
+    },
+    {
+      "toggles": [
+        7,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "a5bbd8d0363ab6f3f2c7498aaf87ed232114e20a88ea9108ae15084345f87f78"
+    },
+    {
+      "toggles": [
+        7,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "5c73021201162aac832386e17f06e08127bd049feb46367e96204c923ca6d664"
+    },
+    {
+      "toggles": [
+        7,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "e9cfdb415f6a2ba66e4823ba29b7f12e10764d45bd8fe9023f89c00797e267ec"
+    },
+    {
+      "toggles": [
+        7,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "6495ab7303525a582426ad711ea7e0d02b7b44754fbb9ff47784ae739bd21493"
+    },
+    {
+      "toggles": [
+        7,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "7acaa63fc00318d153a4cdde9101a05315263e35bea249e2ae395f88791f38a4"
+    },
+    {
+      "toggles": [
+        7,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "74611136e52071359a866a187e710f8b98a27bed411d9ccc8beede7c7c65636a"
+    },
+    {
+      "toggles": [
+        7,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "83730387dfddc920b73c6466f7a365b7493407458dc47ac5755387b374404386"
+    },
+    {
+      "toggles": [
+        7,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          7,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "147f1bccc4fb5f6ae6309f9b7eeb62c9e39b812a5d30f089ecdd1a1ae661bc13"
+    },
+    {
+      "toggles": [
+        8,
+        9
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "023d7c85340bb88496b6d0fa69bd8d938b1c6d0f532870c0bb102c9ab92ca91e"
+    },
+    {
+      "toggles": [
+        8,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "d8593e64cfe71dfd30799191e104388f0dfd7488501e073dddf1545a1de5461d"
+    },
+    {
+      "toggles": [
+        8,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "94d1642954bb14e3d74b457ede1e842359558c75d220aa3544ebb6c96de24ba0"
+    },
+    {
+      "toggles": [
+        8,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "9b6b7afa3faab9cc9596279a466350defdd1d5f13a06bd5b4a3a35ee48f980a1"
+    },
+    {
+      "toggles": [
+        8,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "d87b68d5378fb043d9b159ab0bfbe13a8f89d512324dbc5fc08b367befde2cca"
+    },
+    {
+      "toggles": [
+        8,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "0700a30139526a4a675b70f6dff82dcf930be6f48aebdeb131ad731cef2838bb"
+    },
+    {
+      "toggles": [
+        8,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "8b1675da8f64d1948ab52004349cb78c76a27f1ded4bba101d1e1d434fa25490"
+    },
+    {
+      "toggles": [
+        8,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "6d863aa9362a3c6fa7701def1280f1315f57a5014660ce9f178b07dfdc1b06e7"
+    },
+    {
+      "toggles": [
+        8,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "6e3177aa2fa4c6bd7d90ac4048ea3fa12f949a77be942654e139d5ba68506f54"
+    },
+    {
+      "toggles": [
+        8,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "e73407193d6993ac8fad30c4f363507b283aa8ee0c3938a2730097a0c266e7ef"
+    },
+    {
+      "toggles": [
+        8,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "f7a1d2300d1e8954244b562cc63a5b28579d460380a0de9179eeb79177d10de2"
+    },
+    {
+      "toggles": [
+        8,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          9,
+          8,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 170,
+      "spectrum_sha256": "4998c8ca70a60bc8eb88796b46d2a5a4fba13b611a07bd7496951dd45ffbd1ff"
+    },
+    {
+      "toggles": [
+        9,
+        10
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          11,
+          10,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "a91f18999a0cd7fc08efcb2e14de5210133ad0662128fdfad054c5b65299650a"
+    },
+    {
+      "toggles": [
+        9,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "d20a37fbb755f421121e3561113b2ae607ea4460763e07e4f98bc22a5adbf3dd"
+    },
+    {
+      "toggles": [
+        9,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "e23be351938a5196a040fcbbf5d0349bd40fb158c23ae2fe28afdd5350bbdbad"
+    },
+    {
+      "toggles": [
+        9,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "023d7c85340bb88496b6d0fa69bd8d938b1c6d0f532870c0bb102c9ab92ca91e"
+    },
+    {
+      "toggles": [
+        9,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "71739bef9d3cbdde8ec799b9c9ea73f3ac997b38cc7124e57dca6864976c5fb6"
+    },
+    {
+      "toggles": [
+        9,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "077a5fce7a628f4e6cc1fa18258a189d27d22128a90e875e158a8148bf04b131"
+    },
+    {
+      "toggles": [
+        9,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "8b90c373ea6da19fab55e4ab908dd141e14d298808a86d02c5f45036e2eb2183"
+    },
+    {
+      "toggles": [
+        9,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "d8593e64cfe71dfd30799191e104388f0dfd7488501e073dddf1545a1de5461d"
+    },
+    {
+      "toggles": [
+        9,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "61498bb536d16e4c5790b4e1874e73eaf43e683a1a7a20f5bc3ec4280616de64"
+    },
+    {
+      "toggles": [
+        9,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "9eb8603d498f90fd3b0d23e2813583e5eff493bb062a3257287ec1941fe640e1"
+    },
+    {
+      "toggles": [
+        9,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "19f86c74030c095df5ea4bb54e50643d1c8f452358c1a2d7ee71e3ad8c86674d"
+    },
+    {
+      "toggles": [
+        10,
+        11
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "5ce1cd0164bb00979f9eb3c23c273a6ef65588ba83d2e203fa8925e5885aa879"
+    },
+    {
+      "toggles": [
+        10,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "3d77186cfa762d1ebaea65d62332322d8d1e4d357a5ac2a8cf2f2852dcd7a50d"
+    },
+    {
+      "toggles": [
+        10,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 510,
+      "spectrum_sha256": "5331066c8fd4c40911903e9cbfa3c4fc627aaaaaa62697aae9c9bf021f3fd447"
+    },
+    {
+      "toggles": [
+        10,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "b35f6c6482b99fd95bd6cf32c6f6d9616b77a5d62d5f918de67c28c3aa339ae0"
+    },
+    {
+      "toggles": [
+        10,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "e7e2aee78e4a77d8563c3f7101a456fd25b1cecffea27538f1400a25c4fc2bd9"
+    },
+    {
+      "toggles": [
+        10,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "0f3f1fe3d05e332cb3c9b87969c60fe5ebba0083db22881ce03e42f96f9c5a21"
+    },
+    {
+      "toggles": [
+        10,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "25286a9565ca47fe3b42f0de8d8dcbb1e038e9f3b9d850c122dfebb1d3686c64"
+    },
+    {
+      "toggles": [
+        10,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 56,
+      "minimum_words": 85,
+      "spectrum_sha256": "bb54a015c2952d5cd6562ac5f2cf2d67ddab157b0b9a70cb36e3aa1c187ec90d"
+    },
+    {
+      "toggles": [
+        10,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "067a1ad1dd44f4eeda6730c83c42ca9a572f5f4e1d500fa766262caedb084ebc"
+    },
+    {
+      "toggles": [
+        10,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          11,
+          10,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 595,
+      "spectrum_sha256": "53161d55cfa1fee7ba43f2d9bfc8fb94f95ae6dd09431c33d87c7584b7cc14a9"
+    },
+    {
+      "toggles": [
+        11,
+        12
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          13,
+          12,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "a8ca8dcdd9ae81070f468393d4234669878585f719e6019b559382e092a2d497"
+    },
+    {
+      "toggles": [
+        11,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 170,
+      "spectrum_sha256": "3da9ef87fcb6e4f43d959c8ef60a61b0696d814cb9d26b07d1f6f06c7d39e535"
+    },
+    {
+      "toggles": [
+        11,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "5f26b912ccca44c5beef2b45e4b89e56606ac18b9f7b1496ec21bfbbc6641241"
+    },
+    {
+      "toggles": [
+        11,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "ddd872058a93e1d1c48060d67dafe242617ea986ae6bfbd298aec6360ceccb0a"
+    },
+    {
+      "toggles": [
+        11,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "9224ff6eca395faa611e557caaab21f6298f447199d8c69dec5958cea863855a"
+    },
+    {
+      "toggles": [
+        11,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "f4944a4b2b098b1bf1b5a8fc9a91efe07400716aed538a0cc1c5929c8eac9214"
+    },
+    {
+      "toggles": [
+        11,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "c6c545f65266e33b4b142ee3617a801fe5b10354ee29e2f7d77a930b0fd3d619"
+    },
+    {
+      "toggles": [
+        11,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "49c57c7bff39ef43e577fda05a5ea7a98e919cd6c4c56e15fa70dda9b261ac1d"
+    },
+    {
+      "toggles": [
+        11,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "3eafbb2a26be1a2a03488ace8c23fa3486a8d79771780b0fc86f4d6234c7c68b"
+    },
+    {
+      "toggles": [
+        12,
+        13
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "8ba9817bcb265ef26dcbf19079292012d8ceb6eee8e57f5a35765e2b0d77ce5e"
+    },
+    {
+      "toggles": [
+        12,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "80df46ce5b68d150496e7a2ab1ecaef98543499710954d15844fcbda74b546c1"
+    },
+    {
+      "toggles": [
+        12,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "0602c8d4c73be8b99483e5649b5acc1f7724b6448fe53aad349c92929faa1d82"
+    },
+    {
+      "toggles": [
+        12,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "f13ccbfe60f5796060b24faac4b9380cb0fc76c8de3b6288b86aa06a898c357c"
+    },
+    {
+      "toggles": [
+        12,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "33deec9e9f21ccaf02491e79fbc2e0b76eb6393ebd3be06db79a58ad869f923b"
+    },
+    {
+      "toggles": [
+        12,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "e8c17b699801c523d3cc33afa3644880bfab02d6822e2ac99406903dbbfdb8ef"
+    },
+    {
+      "toggles": [
+        12,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "f799fd174c28189071180818d37d968f67bf5b42c7936fc720869ad5d08cffb2"
+    },
+    {
+      "toggles": [
+        12,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          13,
+          12,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "8d578260cc38a41cfb762f217b215a6b52a3a173d49c65b43f97568e9f0eed3a"
+    },
+    {
+      "toggles": [
+        13,
+        14
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          14,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "784fa25aa4079dc88394491650c191e61cddf5d04693b165120fec3ee8ad33c6"
+    },
+    {
+      "toggles": [
+        13,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "1b155613c1fb9f892f82b7ed6f9dbeb8e6c6ee053692b592a65dceb463c193a1"
+    },
+    {
+      "toggles": [
+        13,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "a68fc1f4ddbae9fa2863c4a7fbacef6d583dcf0f656920905298fa9222e87fab"
+    },
+    {
+      "toggles": [
+        13,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 510,
+      "spectrum_sha256": "a91f18999a0cd7fc08efcb2e14de5210133ad0662128fdfad054c5b65299650a"
+    },
+    {
+      "toggles": [
+        13,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "f9c090a5be9009aabcf3d506efc56ed21cb33c959633f33ddda1fd4cb9c22058"
+    },
+    {
+      "toggles": [
+        13,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "f7a1d2300d1e8954244b562cc63a5b28579d460380a0de9179eeb79177d10de2"
+    },
+    {
+      "toggles": [
+        13,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 765,
+      "spectrum_sha256": "0aec2570dd4d17cb95ee9cb1f7b3fb1e05f31f5ebb01f4db6edaf4d2c2b92f5b"
+    },
+    {
+      "toggles": [
+        14,
+        15
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          15,
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "7d5434041e8e793e3240b91995ba390e69bdb19adbbfede54f1a0ecea2eafd6e"
+    },
+    {
+      "toggles": [
+        14,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 255,
+      "spectrum_sha256": "9947754baec2ef6b068cc5421a746809931f8f3adf58f9f1ea377aaead7a96a1"
+    },
+    {
+      "toggles": [
+        14,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "97cf3e811524cdd5cc82d55f9868379eb06c5832bd1dee823de772a060352105"
+    },
+    {
+      "toggles": [
+        14,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "dc03c94166380705f42bddd5c7426ebc5dae87183fedd19103c7d726ef88341c"
+    },
+    {
+      "toggles": [
+        14,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "ebabaca4950f775596bec1a44f9f7dfb1d3fdeb95772f21c8cf1e4eb8e822a9d"
+    },
+    {
+      "toggles": [
+        14,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          14,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "1075dedc54be7d24e3b72f0654bd850d7c02ccd62e92039d997a082f34d2c10d"
+    },
+    {
+      "toggles": [
+        15,
+        16
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          16,
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "a2218516f6cae03c21bbfafe3a91ea3d7958e2de6c46804dd7ce4016b13191f6"
+    },
+    {
+      "toggles": [
+        15,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "b0a7ed12e80690ad1db116d54da093ac4ecc13ff93ad7bb298418dfdcdad1535"
+    },
+    {
+      "toggles": [
+        15,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "e4118c52f09c9d7fcaa4e8664f935b889a8e3198ac3e678f0c7a6e4d5f734058"
+    },
+    {
+      "toggles": [
+        15,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 425,
+      "spectrum_sha256": "a2b30b5430cf922e8fafd94b314dcf2d762b98e79cacaa408cac12c689a94b7f"
+    },
+    {
+      "toggles": [
+        15,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          15,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 255,
+      "spectrum_sha256": "1954c75c054c4dba8825c7951ccbf8b2941b74011aba6c7dc65826519572f1aa"
+    },
+    {
+      "toggles": [
+        16,
+        17
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          17,
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "a98f2fccf811f43589db2c2f04d1425a9c5bce75a0844dbd067162f88accae74"
+    },
+    {
+      "toggles": [
+        16,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "fbda7e2c40a0796f6c9a7d4efb2a592cf0fc914833cdb1ec92a32598e76dd7e9"
+    },
+    {
+      "toggles": [
+        16,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "f42bc82b76be50cf1771c31376ed386c8f191699b5bfadbec7be09df99823253"
+    },
+    {
+      "toggles": [
+        16,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          16,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "98652fd0271d95534a56dca3001f04bce71dd6837d90304e0ad93796051efe68"
+    },
+    {
+      "toggles": [
+        17,
+        18
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          18,
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 170,
+      "spectrum_sha256": "135a44bd68f7f15c28ff44c80a2dbd733df2a76a20dfb27dec3f1ea806515c43"
+    },
+    {
+      "toggles": [
+        17,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 60,
+      "minimum_words": 85,
+      "spectrum_sha256": "836955c20701673f760c2d2d77dd5b904b7344a24a3d9f5cfd0e56b6d6331203"
+    },
+    {
+      "toggles": [
+        17,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          17,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 36,
+      "minimum_words": 5,
+      "spectrum_sha256": "8c67d2c7fa469b81817a1e7ed865fb44cebcbea008a60baf5fad4013a5808d37"
+    },
+    {
+      "toggles": [
+        18,
+        19
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          19,
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 34,
+      "minimum_words": 10,
+      "spectrum_sha256": "d9ab36ff6c2029df38199327cb952bab8251deb982e51acaaf5fd91a691119bb"
+    },
+    {
+      "toggles": [
+        18,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          18,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 58,
+      "minimum_words": 85,
+      "spectrum_sha256": "c0465c4e98ff457b5a760962be0654d973bac3269569b51a3d54825d83792875"
+    },
+    {
+      "toggles": [
+        19,
+        20
+      ],
+      "multiplier": [
+        [
+          0
+        ],
+        [
+          20,
+          19,
+          13,
+          11,
+          9,
+          6,
+          4,
+          3,
+          2,
+          1,
+          0
+        ]
+      ],
+      "d": 62,
+      "minimum_words": 340,
+      "spectrum_sha256": "53a5705b45197259be01767dd663ad82b5fcbe3e8616e482a2c704cfec576b66"
+    }
+  ],
+  "claim": "Finite search result for this multiplier neighborhood only; no optimality or record claim"
+}
